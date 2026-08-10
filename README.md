@@ -1,7 +1,7 @@
 ## Hi there, I'm Carlos👋
 
 
-## About Me
+## 🚀 About Me
 I'm a Marine Corps veteran and an aspiring data specialist with a strong passion for data management, cleaning, and analysis. I enjoy transforming raw, complex data into accurate, reliable, and meaningful information that supports informed, data-driven decision-making. My military background has strengthened my attention to detail, discipline, and problem-solving skills, which I apply to every stage of the data lifecycle. I'm committed to maintaining clean, accurate, and well-organized data because high-quality data is the foundation for trustworthy analysis, operational efficiency, and confident business decisions.
 
 ## 📫 How to Reach Me:
