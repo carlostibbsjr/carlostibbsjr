@@ -13,6 +13,15 @@ Email: carlostibbsjr@gmail.com
 ## ⚡ Fun Fact
 Outside of data, I enjoy spending time outdoors, whether it's hiking, taking long walks, or simply getting some fresh air. I also enjoy gaming, which gives me another way to challenge my problem-solving skills and unwind after a productive day. I believe maintaining a healthy balance between work, learning, and personal interests helps me stay focused, curious, and motivated.
 
+
+## 🔭 Main Projects
+Financial Trends & Monitoring: https://github.com/carlostibbsjr/Financial-Trends-Monitoring-
+
+Cafe Sales Data Cleaning & Preparation: https://github.com/carlostibbsjr/Cafe-Sales-Data-Cleaning-Preparation
+
+## 🔭 Other Data Projects
+https://www.linkedin.com/in/carlos-tibbs-jr-7b43b3236/details/projects/
+
   
 
 <!--
