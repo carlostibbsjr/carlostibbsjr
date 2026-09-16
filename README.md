@@ -24,7 +24,7 @@ https://www.linkedin.com/in/carlos-tibbs-jr-7b43b3236/details/projects/
 
 ## ⛏️ Technical Skills
 - Microsoft Excel
-- Power BI
+- Microsoft Power BI
 - SQL
 - R
 - Python
